@@ -5,14 +5,14 @@ go 1.21
 require (
 	github.com/argoproj/argo-rollouts v1.5.1
 	github.com/openshift/api v3.9.0+incompatible
-	github.com/openshift/client-go v0.0.0-20230807132528-be5346fb33cb
+	github.com/openshift/client-go v0.0.0-20231005121823-e81400b97c46
 	github.com/parnurzeal/gorequest v0.2.16
 	github.com/prometheus/client_golang v1.16.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.7.0
-	k8s.io/api v0.28.1
-	k8s.io/apimachinery v0.28.1
-	k8s.io/client-go v0.28.1
+	k8s.io/api v0.28.2
+	k8s.io/apimachinery v0.28.2
+	k8s.io/client-go v0.28.2
 	k8s.io/kubectl v0.28.1
 	k8s.io/utils v0.0.0-20230726121419-3b25d923346b
 )
